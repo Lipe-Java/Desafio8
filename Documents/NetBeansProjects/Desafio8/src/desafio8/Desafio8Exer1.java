@@ -1,8 +1,8 @@
-package desafio8;
+package desafio8exer1;
 
 import java.util.Scanner;
 
-public class Desafio8 {
+public class Desafio8Exer1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
